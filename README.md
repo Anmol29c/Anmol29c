@@ -11,6 +11,7 @@
 - 🔑 [Password Security Checker](https://github.com/Anmol29c/password-security-checker) — Python tool for password strength & breach detection
 - ⚡ [SaaS Gen App](https://github.com/Anmol29c/SaaS-Gen-App) — AI-powered SaaS generator with Gemini API & Tailwind CSS
 - 🏆 [India-Runs-Ranker](https://github.com/Anmol29c/india-runs-ranker) — AI-powered candidate ranking engine for India.Runs Hackathon (Redrob x Hack2Skill)
+- 🌐 Aethelgard Luxury Farms — A premium, fully responsive luxury botanical farm website built using React, Vite, TypeScript, and Tailwind CSS.
 
 ## 🛠️ Tech Stack
 Python | AI/ML | Gemini API | Cybersecurity | Git | Tailwind CSS
